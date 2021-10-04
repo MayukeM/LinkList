@@ -3,4 +3,4 @@ project(LinkList)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(LinkList main.cpp base_op.cpp head.h king.cpp text.cpp classic.cpp)
+add_executable(LinkList main.cpp base_op.cpp head.h king.cpp text.cpp class.cpp)

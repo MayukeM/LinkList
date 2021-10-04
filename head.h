@@ -19,6 +19,7 @@ typedef struct	LNode {		//自定义数据类型
     ElemType data;			//数据域
     struct LNode *next;	//指针域
 } LNode, *LinkList;
+
 /*classic*/
 void Increase(LinkList L);
 void MoveMin(LinkList L);
